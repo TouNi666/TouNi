@@ -1,0 +1,19 @@
+{
+  "members": [
+    {
+      "name": "果果",
+      "lunar_birthday": "2018-10-26",
+      "group_id": "default"
+    },
+    {
+      "name": "月亮",
+      "lunar_birthday": "1995-07-30",
+      "group_id": "default"
+    },
+    {
+      "name": "希希",
+      "lunar_birthday": "1994-09-22",
+      "group_id": "default"
+    }
+  ]
+}
